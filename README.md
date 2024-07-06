@@ -10,4 +10,7 @@ Untuk user dokter bisa cek di database untuk usernamenya adalah nama lengkap
 
 Silahkan mencoba fitur yang ada, CRUD data mulai dari pembuatan pasien, obat, dokter dan poli
 
+Bisa akses juga link hostingnya di [https://poliklinikudinus.000webhostapp.com](http://poliklinikudinus.000webhostapp.com/)
+Cuman belum saya perbaiki lagi di file systemnya harus di sesuaikan, kadang error. Disarankan menggunakan local server (XAMPP/MAMP)
+
 - Rio Arlianda (A11.2020.12796)
